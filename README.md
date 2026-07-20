@@ -75,12 +75,6 @@
 
 ### 📌 Projetos em destaque
 
-> Substitua os links abaixo pelos seus repositórios mais relevantes (idealmente um de cada área: web, AWS/infra e IoT/embarcado)
-
-- **[nome-do-projeto](https://github.com/SchinThuner/repo)** — breve descrição do que o projeto faz e qual problema resolve
-- **[nome-do-projeto-iot](https://github.com/SchinThuner/repo)** — projeto unindo eletrônica embarcada (C) com dashboard web
-- **[nome-do-projeto-aws](https://github.com/SchinThuner/repo)** — exemplo de infraestrutura ou automação na AWS
-
 ---
 
 <p align="center"><i>"Engenharia de software é sempre sobre trade-offs — e uma boa gambiarra também é uma solução de engenharia."</i></p>
