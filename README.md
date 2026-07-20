@@ -63,11 +63,6 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SchinThuner&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SchinThuner&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="left">
   <img src="https://streak-stats.demolab.com/?user=SchinThuner&theme=radical&hide_border=true" />
 </p>
 
