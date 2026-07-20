@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  📍 Minas Gerais - Brasil &nbsp;|&nbsp;
-  🐦 <a href="https://twitter.com/SchThEW">@SchThEW</a> &nbsp;|&nbsp;
-  💼 <a href="https://linkedin.com/in/schindler-thuner">LinkedIn</a>
+  <img src="https://img.shields.io/badge/Minas_Gerais-Brasil-red?style=flat-square&logo=googlemaps&logoColor=white" />
+  <a href="https://twitter.com/SchThEW"><img src="https://img.shields.io/badge/Twitter-@SchThEW-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/schindler-thuner"><img src="https://img.shields.io/badge/LinkedIn-Schindler_Thuner-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
@@ -22,7 +22,7 @@
 - 🗄️ Modelo e trabalho com bancos de dados relacionais em **SQL**, desde queries do dia a dia até estruturação de schemas
 - ☁️ Tenho experiência prática com **AWS** — não domino tudo, mas sei transitar bem entre os serviços que uso no dia a dia (deploy, ambientes, storage)
 - 🐧 Uso **Linux** e terminal como ferramenta principal de trabalho, com boa desenvoltura em **Git** para versionamento e colaboração
-- 🔌 Tenho base sólida em **C** e sistemas embarcados vindos da minha formação em eletrônica, o que me permite transitar entre **IoT** e aplicações web — do hardware até a nuvem
+- 🔌 Tenho base sólida em **C** e sistemas embarcados vindos da minha formação em eletrônica, com experiência em microcontroladores **MSP430**, o que me permite transitar entre **IoT** e aplicações web — do hardware até a nuvem
 
 ---
 
@@ -51,15 +51,36 @@
 
 **Eletrônica & IoT**
 
-<p align="left"> <img src="https://img.shields.io/badge/MSP430-CC0000?style=for-the-badge&logo=texasinstruments&logoColor=white" /> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" /> <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" /> <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" /> </p>
+<p align="left">
+  <img src="https://img.shields.io/badge/MSP430-CC0000?style=for-the-badge&logo=texasinstruments&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SchinThuner&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SchinThuner&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SchinThuner&theme=radical&hide_border=true" />
+</p>
+
 ---
 
 ### 📌 Projetos em destaque
+
+> Substitua os links abaixo pelos seus repositórios mais relevantes (idealmente um de cada área: web, AWS/infra e IoT/embarcado)
+
+- **[nome-do-projeto](https://github.com/SchinThuner/repo)** — breve descrição do que o projeto faz e qual problema resolve
+- **[nome-do-projeto-iot](https://github.com/SchinThuner/repo)** — projeto unindo eletrônica embarcada (C) com dashboard web
+- **[nome-do-projeto-aws](https://github.com/SchinThuner/repo)** — exemplo de infraestrutura ou automação na AWS
+
 ---
 
 <p align="center"><i>"Engenharia de software é sempre sobre trade-offs — e uma boa gambiarra também é uma solução de engenharia."</i></p>
