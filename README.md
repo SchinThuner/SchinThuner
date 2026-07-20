@@ -1,15 +1,28 @@
-<h1 align="center">Olá, eu sou o Schindler 👋</h1> <p align="center"> Desenvolvedor com raízes em eletrônica — resolvo problemas sob pressão, ajusto o que quebra e mantenho sistemas de pé. Gambiarreiro assumido, apaixonado por sistemas embarcados e Linux. </p> <p align="center"> 📍 Minas Gerais - Brasil &nbsp;|&nbsp; 🐦 <a href="https://twitter.com/SchThEW">@SchThEW</a> &nbsp;|&nbsp; 💼 <a href="https://linkedin.com/in/schindler-thuner">LinkedIn</a> </p>
+<h1 align="center">Olá, eu sou o Schindler 👋</h1>
+
+<p align="center">
+  Desenvolvedor com raízes em eletrônica — resolvo problemas sob pressão, ajusto o que quebra e mantenho sistemas de pé. Gambiarreiro assumido, apaixonado por sistemas embarcados e Linux.
+</p>
+
+<p align="center">
+  📍 Minas Gerais - Brasil &nbsp;|&nbsp;
+  🐦 <a href="https://twitter.com/SchThEW">@SchThEW</a> &nbsp;|&nbsp;
+  💼 <a href="https://linkedin.com/in/schindler-thuner">LinkedIn</a>
+</p>
+
+---
 
 ### 🚀 Sobre mim
-🔧 Formado em Eletrônica, migrei para o desenvolvimento de software sem perder o gosto por hardware
-🚨 No dia a dia, boa parte do meu tempo é dedicada a sustentação: identificar, corrigir e ajustar problemas que impactam diretamente clientes, sob SLAs curtos
-🧩 Isso me deixou confortável em diagnosticar rápido, entender sistemas que não escrevi e priorizar o que realmente resolve o problema
-💻 Atuo com PHP, usando os frameworks Laravel e CodeIgniter no dia a dia
-⚛️ Também construo interfaces e aplicações com Node.js e React, atuando de ponta a ponta quando o projeto pede
-🗄️ Modelo e trabalho com bancos de dados relacionais em SQL, desde queries do dia a dia até estruturação de schemas
-☁️ Tenho experiência prática com AWS — não domino tudo, mas sei transitar bem entre os serviços que uso no dia a dia (deploy, ambientes, storage)
-🐧 Uso Linux e terminal como ferramenta principal de trabalho, com boa desenvoltura em Git para versionamento e colaboração
-🔌 Tenho base sólida em C e sistemas embarcados vindos da minha formação em eletrônica, o que me permite transitar entre IoT e aplicações web — do hardware até a nuvem
+
+- 🔧 Formado em Eletrônica, migrei para o desenvolvimento de software sem perder o gosto por hardware
+- 🚨 No dia a dia, boa parte do meu tempo é dedicada a **sustentação**: identificar, corrigir e ajustar problemas que impactam diretamente clientes, sob **SLAs curtos**
+- 🧩 Isso me deixou confortável em diagnosticar rápido, entender sistemas que não escrevi e priorizar o que realmente resolve o problema
+- 💻 Atuo com **PHP**, usando os frameworks **Laravel** e **CodeIgniter** no dia a dia
+- ⚛️ Também construo interfaces e aplicações com **Node.js** e **React**, atuando de ponta a ponta quando o projeto pede
+- 🗄️ Modelo e trabalho com bancos de dados relacionais em **SQL**, desde queries do dia a dia até estruturação de schemas
+- ☁️ Tenho experiência prática com **AWS** — não domino tudo, mas sei transitar bem entre os serviços que uso no dia a dia (deploy, ambientes, storage)
+- 🐧 Uso **Linux** e terminal como ferramenta principal de trabalho, com boa desenvoltura em **Git** para versionamento e colaboração
+- 🔌 Tenho base sólida em **C** e sistemas embarcados vindos da minha formação em eletrônica, o que me permite transitar entre **IoT** e aplicações web — do hardware até a nuvem
 
 ---
 
@@ -51,8 +64,6 @@
 ---
 
 ### 📌 Projetos em destaque
-
 ---
 
-<p align="center"><i>"Toda solução é um trade-off. Às vezes o trade-off certo é a gambiarra.."</i></p>
-<p align="center"><i>"Gambiarra bem pensada é só engenharia sem orçamento pra elegância."</i></p>
+<p align="center"><i>"Engenharia de software é sempre sobre trade-offs — e uma boa gambiarra também é uma solução de engenharia."</i></p>
